@@ -4,7 +4,7 @@ A lightweight SA:MP (San Andreas Multiplayer) include to send rich embed message
 
 ---
 
-## ✨ Features
+## Features
 
 - Send **rich embed messages** to Discord with a single function call.
 - Supports **title**, **description**, **color**, **fields** (inline), and **footer**.
@@ -15,7 +15,7 @@ A lightweight SA:MP (San Andreas Multiplayer) include to send rich embed message
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - [Pawn Requests](https://github.com/Southclaws/pawn-requests) plugin (v1.2.0 or higher)
 - SA:MP server 0.3.7 or later
@@ -23,7 +23,7 @@ A lightweight SA:MP (San Andreas Multiplayer) include to send rich embed message
 
 ---
 
-## 📥 Installation
+## Installation
 
 1. Download the latest release of **Pawn Requests** from [here](https://github.com/Southclaws/pawn-requests/releases).
 2. Put `requests.dll` (Windows) or `requests.so` (Linux) into your server's `plugins/` folder.
@@ -33,7 +33,7 @@ A lightweight SA:MP (San Andreas Multiplayer) include to send rich embed message
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```pawn
 #include <discord-webhook>
